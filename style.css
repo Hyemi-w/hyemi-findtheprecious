@@ -1,21 +1,21 @@
 @font-face {
     font-family:'Party Business'; /* POLICE DES TEXTES*/
-    src: url(/home/wilder9/Documents/quêtes/integrationfinale2/fonts/partybusiness.ttf);
+    src: url(fonts/partybusiness.ttf);
 }
 
 @font-face{
 	font-family: "Tengwar Annatar"; /* POLICE ENTOURANT LES TITRES*/
-	src: url(/home/wilder9/Documents/quêtes/integrationfinale2/fonts/tngan.ttf);
+	src: url(fonts/tngan.ttf);
 }
 
 @font-face{
 	font-family: "Tengwar Annatar Italic";
-	src: url(/home/wilder9/Documents/quêtes/integrationfinale2/fonts/tngani.ttf);
+	src: url(fonts/tngani.ttf);
 }
 
 @font-face{
 	font-family: "Aniron"; /* POLICE DES TITRES*/
-	src: url(/home/wilder9/Documents/quêtes/integrationfinale2/fonts/anicm___.ttf);
+	src: url(fonts/anicm___.ttf);
 }
 
 html, body{
