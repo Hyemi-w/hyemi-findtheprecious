@@ -88,7 +88,7 @@ h2{
 
 
 .fellows{
-	background-image: url(/home/wilder9/Documents/quêtes/integrationfinale2/pictures/bg_light.png);
+	background-image: url(pictures/bg_light.png);
 	background-repeat: repeat;
 	padding-top: 50px;
 	padding-bottom: 50px;
@@ -234,7 +234,7 @@ span{
 
 
 .myreward{
-	background-image: url(/home/wilder9/Documents/quêtes/integrationfinale2/pictures/bg_dark.png);
+	background-image: url(pictures/bg_dark.png);
 	padding-top: 50px;
 	padding-bottom: 50px;
 	color: white;
@@ -265,7 +265,7 @@ span{
 /* BEST HUNTERS*/
 
 .besthunters{
-	background-image: url(/home/wilder9/Documents/quêtes/integrationfinale2/pictures/bg_light.png);
+	background-image: url(pictures/bg_light.png);
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
@@ -291,7 +291,7 @@ span{
 }
 
 .nb-hate{
-	background-image: url(/home/wilder9/Documents/quêtes/integrationfinale2/pictures/bg_dark.png);
+	background-image: url(pictures/bg_dark.png);
 	max-width: 69px;
 	color: white;
 }
@@ -312,7 +312,7 @@ span{
 /*ABOUT THE RING*/
 
 .thering{
-	background-image: url(/home/wilder9/Documents/quêtes/integrationfinale2/pictures/bg_dark.png);
+	background-image: url(pictures/bg_dark.png);
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
@@ -339,7 +339,7 @@ h5{
 /* JOIN ARMY*/
 
 .joinarmy{
-	background-image: url(/home/wilder9/Documents/quêtes/integrationfinale2/pictures/bg_light.png);
+	background-image: url(pictures/bg_light.png);
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
@@ -370,7 +370,7 @@ h5{
 /* CONTACT US*/
 
 .contactus{
-	background-image: url(/home/wilder9/Documents/quêtes/integrationfinale2/pictures/bg_dark.png);
+	background-image: url(pictures/bg_dark.png);
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
